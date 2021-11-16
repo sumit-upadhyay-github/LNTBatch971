@@ -1,1 +1,4 @@
 today is sunday
+month is november
+year is 2021
+we are learning git
